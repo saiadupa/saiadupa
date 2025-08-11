@@ -15,9 +15,9 @@
 ---
 
 ## 🚀 About Me
-- **AI Engineer @ SteadfastAI (May 2025–Present)** — Building **LLM-powered agents** inside the **MCP (Microservices Control Platform)** for real-time cybersecurity automation and incident response. Reduced LLM latency **~35%** with prompt/runtime optimizations; added eval dashboards for **accuracy, latency, and cost**.
-- **Research Assistant @ University of Michigan–Dearborn** — Leading **FakeXpose** deepfake research and AI transformation; improving research productivity and model performance.
-- **Patent holder** — AI model for violence detection in CCTV (90%+); **published** in encryption and deepfake research.
+- **AI Engineer @ SteadfastAI (May 2025-Present)** : Building **LLM-powered agents** inside the **MCP (Microservices Control Platform)** for real-time cybersecurity automation and incident response. Reduced LLM latency **~35%** with prompt/runtime optimizations; added eval dashboards for **accuracy, latency, and cost**.
+- **Research Assistant @ University of Michigan–Dearborn** : Leading **FakeXpose** deepfake research and AI transformation, improving research productivity and model performance.
+- **Patent holder** : AI model for violence detection in CCTV (90%+); **published** in encryption and deepfake research.
 - **M.S. in AI** (UM-Dearborn, 2024–2026) · **B.Tech in AI & ML** (JNTUH)
 
 ---
@@ -27,7 +27,12 @@
 - **Observability:** Tracked eval metrics (accuracy, latency p95, tokens/cost) and built dashboards for continuous monitoring.
 - **APIs & Microservices:** FastAPI-based services with CI/CD, autoscaling, and role-based access for security tools.
 - **Reliability:** Added fallback models and deterministic “safe paths” for critical actions.
-
+---
+##  Contributions
+<p align="center">
+  <!-- Default green -->
+  <img src="https://ghchart.rshah.org/saiadupa" alt="saiadupa's GitHub contributions" />
+</p>
 ---
 
 ## 🖥️ Technical Skills
@@ -147,23 +152,153 @@
 </tr>
 </table>
 
+---
+## 📦 Published Python Packages
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3>
+  <img src="https://cdn.simpleicons.org/pypi" width="18" /> 
+  <a href="https://pypi.org/project/skip-pip/">skip-pip</a>
+</h3>
+<p>A pip wrapper that installs from requirements files and <b>skips failing packages</b>.</p>
+<p>
+  <a href="https://pypi.org/project/skip-pip/">
+    <img src="https://img.shields.io/pypi/v/skip-pip?label=version&logo=pypi" />
+  </a>
+  <img src="https://img.shields.io/pypi/pyversions/skip-pip?logo=python" />
+  <img src="https://img.shields.io/pypi/wheel/skip-pip?label=wheel" />
+</p>
+<p><code>pip install skip-pip</code></p>
+<sub>Last release: <b>Mar 13, 2025</b></sub>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>
+  <img src="https://cdn.simpleicons.org/pypi" width="18" /> 
+  <a href="https://pypi.org/project/monitor-load/">monitor-load</a>
+</h3>
+<p>CLI to monitor system load and <b>pause/resume a process</b> on thresholds.</p>
+<p>
+  <a href="https://pypi.org/project/monitor-load/">
+    <img src="https://img.shields.io/pypi/v/monitor-load?label=version&logo=pypi" />
+  </a>
+  <img src="https://img.shields.io/pypi/pyversions/monitor-load?logo=python" />
+  <img src="https://img.shields.io/pypi/wheel/monitor-load?label=wheel" />
+</p>
+<p><code>pip install monitor-load</code></p>
+<sub>Last release: <b>Feb 5, 2025</b></sub>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<h3>
+  <img src="https://cdn.simpleicons.org/pypi" width="18" /> 
+  <a href="https://pypi.org/project/Deepfake-detector/">Deepfake-detector</a>
+</h3>
+<p>Library for detecting <b>deepfake images & videos</b>.</p>
+<p>
+  <a href="https://pypi.org/project/Deepfake-detector/">
+    <img src="https://img.shields.io/pypi/v/deepfake-detector?label=version&logo=pypi" />
+  </a>
+  <img src="https://img.shields.io/pypi/pyversions/deepfake-detector?logo=python" />
+  <img src="https://img.shields.io/pypi/wheel/deepfake-detector?label=wheel" />
+</p>
+<p><code>pip install deepfake-detector</code></p>
+<sub>Last release: <b>Sep 18, 2024</b></sub>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>
+  <img src="https://cdn.simpleicons.org/pypi" width="18" /> 
+  <a href="https://pypi.org/project/Device-Fingerprint/">Device-Fingerprint</a>
+</h3>
+<p>Generate a <b>unique device fingerprint</b> from system/physical characteristics.</p>
+<p>
+  <a href="https://pypi.org/project/Device-Fingerprint/">
+    <img src="https://img.shields.io/pypi/v/device-fingerprint?label=version&logo=pypi" />
+  </a>
+  <img src="https://img.shields.io/pypi/pyversions/device-fingerprint?logo=python" />
+  <img src="https://img.shields.io/pypi/wheel/device-fingerprint?label=wheel" />
+</p>
+<p><code>pip install device-fingerprint</code></p>
+<sub>Last release: <b>Aug 27, 2024</b></sub>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<h3>
+  <img src="https://cdn.simpleicons.org/pypi" width="18" /> 
+  <a href="https://pypi.org/project/AI-classifier/">AI-classifier</a>
+</h3>
+<p>Transformer-based classifier to detect <b>AI-generated vs human-written</b> text.</p>
+<p>
+  <a href="https://pypi.org/project/AI-classifier/">
+    <img src="https://img.shields.io/pypi/v/ai-classifier?label=version&logo=pypi" />
+  </a>
+  <img src="https://img.shields.io/pypi/pyversions/ai-classifier?logo=python" />
+  <img src="https://img.shields.io/pypi/wheel/ai-classifier?label=wheel" />
+</p>
+<p><code>pip install ai-classifier</code></p>
+<sub>Last release: <b>May 10, 2024</b></sub>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>
+  <img src="https://cdn.simpleicons.org/pypi" width="18" /> 
+  <a href="https://pypi.org/project/NSAencrypt/">NSAencrypt</a>
+</h3>
+<p>Encrypt/decrypt <b>images, video, text, and audio</b> with a simple API.</p>
+<p>
+  <a href="https://pypi.org/project/NSAencrypt/">
+    <img src="https://img.shields.io/pypi/v/nsaencrypt?label=version&logo=pypi" />
+  </a>
+  <img src="https://img.shields.io/pypi/pyversions/nsaencrypt?logo=python" />
+  <img src="https://img.shields.io/pypi/wheel/nsaencrypt?label=wheel" />
+</p>
+<p><code>pip install nsaencrypt</code></p>
+<sub>Last release: <b>Oct 28, 2023</b></sub>
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 📌 Featured Projects
-- **🔍 Multi-Model Deepfake Detection** — +30% accuracy, −15% false positives, production-ready media integrity checks.
-- **🤖 MCP LLM Agents** — Secure AI automation across cybersecurity workflows with RAG, tool-use, and guardrails.
-- **📝 AI Classifier** — Transformer-based AI-vs-Human text classifier (Python package).
-- **⚙️ monitor-load** — CLI to monitor CPU/GPU and pause/resume processes dynamically (PyPI).
-- **🔐 NSAencrypt** — Multi-format encryption/decryption library (50+ users).
+- **Violence-and-Non-Violence-Detection**: video based(Patent) uses ML and AI opencv and more
+- **Multi-Model Deepfake Detection**: +30% accuracy, −15% false positives, production-ready media integrity checks.
+- **self‑supervised learning (SSL)**: based anti‑spoofing pipeline for audio. It has two main stages:
+  - Frontend (SSL feature extractors): wavlm_large, mae_ast_frame, npc_960hr
+  - Backend (Classifier models): AASIST, SLS, XLSR‑Mamba
+- **Crop Recommendation System using Machine Learning**: This project predicts the best crops to be cultivated based on various environmental factors such as Nitrogen, Phosphorus, Potassium, Temperature, Humidity, pH, and Rainfall. The application uses a trained machine learning model to provide crop recommendations.
 
 ---
 
-## 📚 Publications & Patent
-- **Patent:** AI model for violence detection in CCTV (90%+).
-- **ICCCN 2024:** Data Encryption with RSA.
-- **Interspeech 2025:** Collecting & Curating Deepfake Speech Dataset.
-- **Journal:** Violence detection (92% across 1,000+ hours).
+## 🚀 Featured Projects
+
+- 🎥 **Violence-and-Non-Violence-Detection (Patent)**  
+  Video-based classification using ML/AI with OpenCV; detects violence vs. non-violence in real time.
+- 🛡️ **Multi-Model Deepfake Detection**  
+  Production-ready media integrity checks: **+30%** accuracy, **−15%** false positives.
+- 🔊 **Self-Supervised Learning (SSL) Anti-Spoofing  Audio**  
+  Two-stage pipeline  
+  - **Frontend (SSL feature extractors):** `wavlm_large`, `mae_ast_frame`, `npc_960hr`  
+  - **Backend (classifier models):** `AASIST`, `SLS`, `XLSR-Mamba`
+- 🌾 **Crop Recommendation System using Machine Learning**  
+  Predicts best crops from **N, P, K, temperature, humidity, pH, rainfall**.
+
 
 ---
 
@@ -190,4 +325,4 @@
 
 ## 🤝 Let’s Connect
 - 💼 Collab on **AI, LLMs, cybersecurity, and deepfake detection**
-- 📫 **adupanithinsai@gmail.com** · 🌐 **https://saiadupa.github.io/** · 🔗 **/in/nithinsaiadupa/**
+- 📫 **adupanithinsai@gmail.com** · 🌐 **https://saiadupa.github.io/** · 🔗 **https://www.linkedin.com/in/nithinsaiadupa/**
