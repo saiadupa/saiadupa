@@ -41,21 +41,17 @@
 **Technical Proficiency**
 <table>
 <tr>
-<td align="center" width="95"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" alt="Python"/><br/><sub>Python</sub></td>
-<td align="center" width="95"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/><br/><sub>JavaScript</sub></td>
-<td align="center" width="95"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/><br/><sub>Linux</sub></td>
-<td align="center" width="95"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" alt="Git"/><br/><sub>Git</sub></td>
-<td align="center" width="95"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" width="40" height="40" alt="Flask"/><br/><sub>Flask</sub></td>
-<td align="center" width="95"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="40" height="40" alt="Django"/><br/><sub>Django</sub></td>
-</tr>
-<tr>
-<td align="center" width="95"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-plain.svg" width="40" height="40" alt="Bootstrap"/><br/><sub>Bootstrap</sub></td>
-<td align="center" width="95"><img src="https://cdn.simpleicons.org/openapiinitiative" width="40" height="40" alt="APIs"/><br/><sub>APIs</sub></td>
-<td align="center" width="95"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="40" height="40" alt="WordPress"/><br/><sub>WordPress</sub></td>
-<td align="center" width="95">
-  Microsoft Office<br/><sub>Microsoft Office</sub>
-</td>
-
+<td align="center" width="70"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" alt="Python"/><br/><sub>Python</sub></td>
+<td align="center" width="70"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/><br/><sub>JavaScript</sub></td>
+<td align="center" width="70"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/><br/><sub>Linux</sub></td>
+<td align="center" width="70"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" alt="Git"/><br/><sub>Git</sub></td>
+<td align="center" width="70"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" width="40" height="40" alt="Flask"/><br/><sub>Flask</sub></td>
+<td align="center" width="70"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="40" height="40" alt="Django"/><br/><sub>Django</sub></td>
+<td align="center" width="70"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-plain.svg" width="40" height="40" alt="Bootstrap"/><br/><sub>Bootstrap</sub></td>
+<td align="center" width="70"><img src="https://cdn.simpleicons.org/openapiinitiative" width="40" height="40" alt="APIs"/><br/><sub>APIs</sub></td>
+<td align="center" width="70"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="40" height="40" alt="WordPress"/><br/><sub>WordPress</sub></td>
+<td align="center" width="70">Microsoft Office<br/><sub>Microsoft Office</sub></td>
+<td align="center" width="70"><sub>&nbsp;</sub></td>
 </tr>
 </table>
 
@@ -63,54 +59,35 @@
 **AI & Machine Learning**
 <table>
 <tr>
-<tr>
-  <td align="center" width="95">
-    <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/cpu.svg" width="40" height="40" alt="Machine Learning"/><br/><sub>Machine Learning</sub>
-  </td>
-  <td align="center" width="95">
-    <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/layers.svg" width="40" height="40" alt="Deep Learning"/><br/><sub>Deep Learning</sub>
-  </td>
-  <td align="center" width="95">
-    <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/diagram-3.svg" width="40" height="40" alt="Neural Networks"/><br/><sub>Neural Networks</sub>
-  </td>
-  <td align="center" width="95">
-    <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/camera-video.svg" width="40" height="40" alt="Computer Vision"/><br/><sub>Computer Vision</sub>
-  </td>
-  <td align="center" width="95">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="PyTorch"/><br/><sub>PyTorch</sub>
-  </td>
-  <td align="center" width="95">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="TensorFlow"/><br/><sub>TensorFlow</sub>
-  </td>
+<td align="center" width="70"><img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/cpu.svg" width="40" height="40" alt="Machine Learning"/><br/><sub>Machine Learning</sub></td>
+<td align="center" width="70"><img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/layers.svg" width="40" height="40" alt="Deep Learning"/><br/><sub>Deep Learning</sub></td>
+<td align="center" width="70"><img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/diagram-3.svg" width="40" height="40" alt="Neural Networks"/><br/><sub>Neural Networks</sub></td>
+<td align="center" width="70"><img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/camera-video.svg" width="40" height="40" alt="Computer Vision"/><br/><sub>Computer Vision</sub></td>
+<td align="center" width="70"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="PyTorch"/><br/><sub>PyTorch</sub></td>
+<td align="center" width="70"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="TensorFlow"/><br/><sub>TensorFlow</sub></td>
+<td align="center" width="70"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" width="40" height="40" alt="Keras"/><br/><sub>Keras</sub></td>
+<td align="center" width="70"><sub>&nbsp;</sub></td>
+<td align="center" width="70"><sub>&nbsp;</sub></td>
+<td align="center" width="70"><sub>&nbsp;</sub></td>
+<td align="center" width="70"><sub>&nbsp;</sub></td>
 </tr>
-<tr>
-  <td align="center" width="95">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" width="40" height="40" alt="Keras"/><br/><sub>Keras</sub>
-  </td>
-</tr>
-
 </table>
 
 <!-- CLOUD & DEVOPS -->
 **Cloud & DevOps**
 <table>
 <tr>
-<td align="center" width="95"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" width="40" height="40" alt="Vercel"/><br/><sub>Vercel</sub></td>
-<td align="center" width="95"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="AWS"/><br/><sub>AWS</sub></td>
-<td align="center" width="95"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="40" height="40" alt="Azure"/><br/><sub>Azure</sub></td>
-<td align="center" width="95"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/><br/><sub>Docker</sub></td>
-<td align="center" width="95"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain.svg" width="40" height="40" alt="Kubernetes"/><br/><sub>Kubernetes</sub></td>
-<td align="center" width="95"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" width="40" height="40" alt="Jenkins"/><br/><sub>Jenkins</sub></td>
-</tr>
-<tr>
-<td align="center" width="95"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" width="40" height="40" alt="GitHub Actions"/><br/><sub>GitHub Actions</sub></td>
-<td align="center" width="95">
-  <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/arrow-repeat.svg" width="40" height="40" alt="CI/CD"/><br/><sub>CI/CD</sub>
-</td>
-
-<td align="center" width="95"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/><br/><sub>MySQL</sub></td>
-<td align="center" width="95"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="40" height="40" alt="SQLite"/><br/><sub>SQLite</sub></td>
-<td align="center" width="95"><img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" width="40" height="40" alt="RDBMS"/><br/><sub>RDBMS</sub></td>
+<td align="center" width="70"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" width="40" height="40" alt="Vercel"/><br/><sub>Vercel</sub></td>
+<td align="center" width="70"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="AWS"/><br/><sub>AWS</sub></td>
+<td align="center" width="70"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="40" height="40" alt="Azure"/><br/><sub>Azure</sub></td>
+<td align="center" width="70"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/><br/><sub>Docker</sub></td>
+<td align="center" width="70"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain.svg" width="40" height="40" alt="Kubernetes"/><br/><sub>Kubernetes</sub></td>
+<td align="center" width="70"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" width="40" height="40" alt="Jenkins"/><br/><sub>Jenkins</sub></td>
+<td align="center" width="70"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" width="40" height="40" alt="GitHub Actions"/><br/><sub>GitHub Actions</sub></td>
+<td align="center" width="70"><img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/arrow-repeat.svg" width="40" height="40" alt="CI/CD"/><br/><sub>CI/CD</sub></td>
+<td align="center" width="70"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/><br/><sub>MySQL</sub></td>
+<td align="center" width="70"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="40" height="40" alt="SQLite"/><br/><sub>SQLite</sub></td>
+<td align="center" width="70"><img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" width="40" height="40" alt="RDBMS"/><br/><sub>RDBMS</sub></td>
 </tr>
 </table>
 
@@ -118,10 +95,17 @@
 **API & Web**
 <table>
 <tr>
-<td align="center" width="95"><img src="https://cdn.simpleicons.org/openapiinitiative" width="40" height="40" alt="RESTful APIs"/><br/><sub>RESTful APIs</sub></td>
-<td align="center" width="95"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="40" height="40" alt="FastAPI"/><br/><sub>FastAPI</sub></td>
-<td align="center" width="95"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="40" height="40" alt="Postman"/><br/><sub>API Testing (Postman)</sub></td>
-<td align="center" width="95"><img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/shield-lock.svg" width="40" height="40" alt="Secure API Design"/><br/><sub>Secure API Design</sub></td>
+<td align="center" width="70"><img src="https://cdn.simpleicons.org/openapiinitiative" width="40" height="40" alt="RESTful APIs"/><br/><sub>RESTful APIs</sub></td>
+<td align="center" width="70"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="40" height="40" alt="FastAPI"/><br/><sub>FastAPI</sub></td>
+<td align="center" width="70"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="40" height="40" alt="Postman"/><br/><sub>API Testing (Postman)</sub></td>
+<td align="center" width="70"><img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/shield-lock.svg" width="40" height="40" alt="Secure API Design"/><br/><sub>Secure API Design</sub></td>
+<td align="center" width="70"><sub>&nbsp;</sub></td>
+<td align="center" width="70"><sub>&nbsp;</sub></td>
+<td align="center" width="70"><sub>&nbsp;</sub></td>
+<td align="center" width="70"><sub>&nbsp;</sub></td>
+<td align="center" width="70"><sub>&nbsp;</sub></td>
+<td align="center" width="70"><sub>&nbsp;</sub></td>
+<td align="center" width="70"><sub>&nbsp;</sub></td>
 </tr>
 </table>
 
@@ -129,15 +113,17 @@
 **Data & Analysis**
 <table>
 <tr>
-<td align="center" width="95"><img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" width="40" height="40" alt="SQL"/><br/><sub>SQL</sub></td>
-<td align="center" width="95"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas"/><br/><sub>Pandas</sub></td>
-<td align="center" width="95"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="40" height="40" alt="Matplotlib"/><br/><sub>Matplotlib</sub></td>
-<td align="center" width="95">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/plotly.svg" width="40" height="40" alt="Plotly"/><br/><sub>Plotly</sub>
-</td>
-
-<td align="center" width="95"><img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/bezier2.svg" width="40" height="40" alt="Advanced Analytical Techniques"/><br/><sub>Advanced Analytical Techniques</sub></td>
-<td align="center" width="95"><img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/bar-chart-line.svg" width="40" height="40" alt="Data Visualization"/><br/><sub>Data Visualization</sub></td>
+<td align="center" width="70"><img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" width="40" height="40" alt="SQL"/><br/><sub>SQL</sub></td>
+<td align="center" width="70"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas"/><br/><sub>Pandas</sub></td>
+<td align="center" width="70"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="40" height="40" alt="Matplotlib"/><br/><sub>Matplotlib</sub></td>
+<td align="center" width="70"><img src="https://raw.githubusercontent.com/plotly/plotly.py/master/doc/_static/plotly_logo.png" width="40" height="40" alt="Plotly"/><br/><sub>Plotly</sub></td>
+<td align="center" width="70"><img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/bezier2.svg" width="40" height="40" alt="Advanced Analytical Techniques"/><br/><sub>Advanced Analytical Techniques</sub></td>
+<td align="center" width="70"><img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/bar-chart-line.svg" width="40" height="40" alt="Data Visualization"/><br/><sub>Data Visualization</sub></td>
+<td align="center" width="70"><sub>&nbsp;</sub></td>
+<td align="center" width="70"><sub>&nbsp;</sub></td>
+<td align="center" width="70"><sub>&nbsp;</sub></td>
+<td align="center" width="70"><sub>&nbsp;</sub></td>
+<td align="center" width="70"><sub>&nbsp;</sub></td>
 </tr>
 </table>
 
@@ -145,12 +131,20 @@
 **Security**
 <table>
 <tr>
-<td align="center" width="95"><img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/terminal.svg" width="40" height="40" alt="Penetration Testing"/><br/><sub>Penetration Testing</sub></td>
-<td align="center" width="95"><img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/patch-check.svg" width="40" height="40" alt="C2PA"/><br/><sub>Content Authenticity (C2PA)</sub></td>
-<td align="center" width="95"><img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/lock-fill.svg" width="40" height="40" alt="Data Encryption"/><br/><sub>Data Encryption</sub></td>
-<td align="center" width="95"><img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/shield-check.svg" width="40" height="40" alt="Secure Systems Design"/><br/><sub>Secure Systems Design</sub></td>
+<td align="center" width="70"><img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/terminal.svg" width="40" height="40" alt="Penetration Testing"/><br/><sub>Penetration Testing</sub></td>
+<td align="center" width="70"><img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/patch-check.svg" width="40" height="40" alt="C2PA"/><br/><sub>Content Authenticity (C2PA)</sub></td>
+<td align="center" width="70"><img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/lock-fill.svg" width="40" height="40" alt="Data Encryption"/><br/><sub>Data Encryption</sub></td>
+<td align="center" width="70"><img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/shield-check.svg" width="40" height="40" alt="Secure Systems Design"/><br/><sub>Secure Systems Design</sub></td>
+<td align="center" width="70"><sub>&nbsp;</sub></td>
+<td align="center" width="70"><sub>&nbsp;</sub></td>
+<td align="center" width="70"><sub>&nbsp;</sub></td>
+<td align="center" width="70"><sub>&nbsp;</sub></td>
+<td align="center" width="70"><sub>&nbsp;</sub></td>
+<td align="center" width="70"><sub>&nbsp;</sub></td>
+<td align="center" width="70"><sub>&nbsp;</sub></td>
 </tr>
 </table>
+
 
 ---
 ## 📦 Published Python Packages
