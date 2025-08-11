@@ -22,7 +22,7 @@
 
 ---
 
-## 🧠 Recent Work Highlights (SteadfastAI)
+## 🧠 Current Work Highlights (SteadfastAI)
 - **MCP + LLM Integration:** Secure tool orchestration, multi-step reasoning, RAG, and guardrails for production workflows.
 - **Observability:** Tracked eval metrics (accuracy, latency p95, tokens/cost) and built dashboards for continuous monitoring.
 - **APIs & Microservices:** FastAPI-based services with CI/CD, autoscaling, and role-based access for security tools.
