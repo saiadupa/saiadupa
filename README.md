@@ -30,16 +30,9 @@
 ---
 ##  Contributions
 <p align="center">
-  <picture>
-    <!-- Dark mode -->
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-contributions-api.deno.dev/saiadupa.svg?bg=transparent" />
-    <!-- Light mode -->
-    <source media="(prefers-color-scheme: light)" srcset="https://ghchart.rshah.org/saiadupa" />
-    <!-- Fallback -->
-    <img src="https://ghchart.rshah.org/saiadupa" alt="saiadupa's GitHub contributions chart" />
-  </picture>
-</p>
 
+  <img src="https://ghchart.rshah.org/saiadupa" alt="saiadupa's GitHub contributions" />
+</p>
 ---
 
 ## 🖥️ Technical Skills
