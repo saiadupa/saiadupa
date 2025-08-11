@@ -270,16 +270,6 @@
 
 ---
 
-## 📌 Featured Projects
-- **Violence-and-Non-Violence-Detection**: video based(Patent) uses ML and AI opencv and more
-- **Multi-Model Deepfake Detection**: +30% accuracy, −15% false positives, production-ready media integrity checks.
-- **self‑supervised learning (SSL)**: based anti‑spoofing pipeline for audio. It has two main stages:
-  - Frontend (SSL feature extractors): wavlm_large, mae_ast_frame, npc_960hr
-  - Backend (Classifier models): AASIST, SLS, XLSR‑Mamba
-- **Crop Recommendation System using Machine Learning**: This project predicts the best crops to be cultivated based on various environmental factors such as Nitrogen, Phosphorus, Potassium, Temperature, Humidity, pH, and Rainfall. The application uses a trained machine learning model to provide crop recommendations.
-
----
-
 ## 🚀 Featured Projects
 
 - 🎥 **Violence-and-Non-Violence-Detection (Patent)**  
