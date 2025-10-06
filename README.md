@@ -33,6 +33,9 @@
 
   <img src="https://ghchart.rshah.org/saiadupa" alt="saiadupa's GitHub contributions" />
 </p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saiadupa&theme=radical" alt="GitHub Profile Details" />
+</p>
 ---
 
 ## 🖥️ Technical Skills
