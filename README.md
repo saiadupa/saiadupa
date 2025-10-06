@@ -292,19 +292,9 @@
 ## 📊 GitHub Stats & Activity
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=saiadupa&show_icons=true&include_all_commits=true&count_private=true&theme=radical" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saiadupa&layout=compact&theme=radical" />
-</p>
-
-<p>
   <img src="https://streak-stats.demolab.com?user=saiadupa&theme=radical" height="165" />
-</p>
-
-<p>
   <img src="https://github-profile-trophy.vercel.app/?username=saiadupa&theme=radical&no-frame=true&margin-w=10&row=1&column=7" />
-</p>
-
-<p>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=saiadupa&theme=react-dark&custom_title=Contribution%20Graph" />
 </p>
 
